@@ -1,1 +1,1 @@
-# ma io che cazzo ne so
+# adding some usless scripts
